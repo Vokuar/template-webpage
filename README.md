@@ -16,7 +16,6 @@ To use this template repository, follow these steps:
 ## Features
 - Basic file structure for a webpage
 - Placeholder content to guide you in adding your own text, images, and other media
-- Integration with GitHub Pages for easy deployment
 
 ## Contributing
 If you find any issues or have suggestions for improvements, feel free to [open an issue](https://github.com/your-username/repository-name/issues) or [submit a pull request](https://github.com/your-username/repository-name/pulls) to contribute to this template repository.
